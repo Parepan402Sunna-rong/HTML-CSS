@@ -1,0 +1,67 @@
+
+html,body{
+    background-color: lightcoral;
+    margin: 0;
+    padding: 0;
+
+}
+.top-hrader{
+    background-color: rgb(54, 53, 53);
+    
+
+}
+.brand{
+    font-size: 18px;
+    font-weight: 600;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.menu-item{
+    color: white;
+    padding: 15px;
+    display: inline-block;
+    text-decoration: none;
+}
+.main-content{
+    max-width: 700px;
+    margin: auto;
+}
+
+.box{
+    background-color: white;
+    padding: 20px;
+    margin: 30px;
+
+}
+.image{
+    width: 100%;
+}
+.button{
+    color: black;
+    background-color: lightgray;
+    padding: 10px;
+    text-decoration: none;
+    display: inline-block;
+}
+.botton-footer{
+    background-color: rgb(54, 53, 53);
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+/* .button{
+    color: white;
+    background-color: blueviolet;
+    padding: 15px;
+    text-align: center;
+    text-decoration: none;
+    margin-bottom: 10px;
+    display: inline-block;
+    width: 30%;
+} */
+/* .title{
+    font-size: 60px;
+
+}
+.text{
+    font-size: 30px;
+} */

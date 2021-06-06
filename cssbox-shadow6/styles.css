@@ -1,0 +1,11 @@
+.box{
+    background-color: white;
+    border: 1px solid darkgray;
+    margin: 60px;
+    padding: 40px;
+    box-shadow: -15px 0px 20px 0px red,
+                0px -15px 20px 0px green,
+                15px 0px 20px 0px blue,
+                0px 15px 12px 0px blueviolet;
+
+}

@@ -1,0 +1,9 @@
+body{
+    background-color: darkgray;
+}
+
+.image{
+    width: 100%;
+    filter: sepia(20%);
+    /* filter: blur(1px); */
+}

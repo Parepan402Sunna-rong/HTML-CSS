@@ -1,0 +1,33 @@
+.flexbox{
+    display: flex;
+    box-sizing: border-box;
+    padding: 0px 10px;
+
+}
+.item{
+    display: block;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+    padding: 0px 10px;
+
+}
+.Content{
+    background-color: darksalmon;
+    padding: 16px;
+    border: 4px solid black;
+    font-size: 18px;
+}
+
+.leftbar{
+    width: 300px;
+
+}
+/* .leftbar-content{
+    
+} */
+.main{
+    flex-grow:1 ;
+}
+/* .main-content{
+    
+} */
